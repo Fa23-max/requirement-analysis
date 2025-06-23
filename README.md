@@ -63,4 +63,4 @@
 - Help in identifying and organizing system requirements.
 - Facilitate communication among stakeholders and development team
   ### Use Case Diagram
-  <img src="relative/path/in/repository/to/image.svg" width="128"/>
+  <img src=./alx-booking-uc.png>
